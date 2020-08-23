@@ -1,11 +1,11 @@
 Onion soup|3
-Garden fresh salad|1
 Prawn cocktail|2
-Mushroom cream soup|3
 Chicken broth|2
-Fish soup|5
 Miso soup|1
 Vegetable soup|2
 Goulash soup|5
 Caesar salad|1
 Greek salad|1
+Fish soup|5
+Mushroom cream soup|3
+Garden fresh salad|1
