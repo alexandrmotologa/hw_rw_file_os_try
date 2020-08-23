@@ -1,0 +1,49 @@
+Onion soup|1|0.250|99|MDL
+Tomato soup|1|0.350|89|MDL
+Prawn cocktail|1|0.350|89|MDL
+Garden fresh salad|1|0.250|99|MDL
+Mushroom cream soup|1|0.250|111|MDL
+Chicken broth|1|0.350|88|MDL
+Fish soup|1|0.300|121|MDL
+Miso soup|1|0.250|111|MDL
+Vegetable soup|1|0.400|78|MDL
+Goulash soup|1|0.200|130|MDL
+Caesar salad|1|0.250|99|MDL
+Greek salad|1|0.350|96|MDL
+Nicoise salad|1|0.350|66|MDL
+Caprese salad|1|0.350|55|MDL
+Chips (French fries)|1|0.350|44|MDL
+Nachos|1|0.350|55|MDL
+Onion rings|1|0.350|66|MDL
+Garlic bread|1|0.350|77|MDL
+Cheese sticks|1|0.350|88|MDL
+Potato pancakes|1|0.350|99|MDL
+Club sandwich|1|0.350|111|MDL
+Platter|1|0.350|200|MDL
+Carpaccio from beef tenderloin|1|0.350|111|MDL
+Sauce|1|0.350|30|MDL
+BBQ ribs|1|0.350|121|MDL
+Cheddar and bacon burger|1|0.350|94|MDL
+Cheeseburger|1|0.350|99|MDL
+Tuna and egg sandwich|1|0.350|59|MDL
+Fish and chips|1|0.350|88|MDL
+Steak|1|0.350|111|MDL
+Roast chicken and potatoes|1|0.350|55|MDL
+Spaghetti Bolognese|1|0.350|57|MDL
+Lasagna|1|0.350|76|MDL
+Pasta Carbonara|1|0.350|94|MDL
+Risotto|1|0.350|94|MDL
+Pizza|1|0.350|111|MDL
+Oysters|1|0.350|102|MDL
+Roast|1|0.350|79|MDL
+Stew |1|0.350|88|MDL
+Pork chop|1|0.350|99|MDL
+Mac’n’cheese|1|0.350|101|MDL
+Seafood pasta|1|0.350|78|MDL
+Chicken noodles|1|0.350|100|MDL
+Wok noodles|1|0.350|91|MDL
+Fried rice|1|0.350|90|MDL
+Shish kebab|1|0.350|121|MDL
+Gyro|1|0.350|94|MDL
+Meatballs|1|0.350|111|MDL
+Schnitzel|1|0.350|121|MDL
