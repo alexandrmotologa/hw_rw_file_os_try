@@ -22,28 +22,18 @@ else:
     print("ERROR...NO FILE...")
 
 
-# sortarea listei menu
-def menu_sort():
-    for j in range(len(list_of_menu)):
-            for i in range(len(list_of_menu) - 1):
-                if list_of_menu[i][0] > list_of_menu[i + 1][0]:
-                    temp = list_of_menu[i]
-                    list_of_menu[i] = list_of_menu[i + 1]
-                    list_of_menu[i + 1] = temp
+# sortarea listelor
 
+def sort_list(my_list):
+    for j in range(len(my_list)):
+            for i in range(len(my_list) - 1):
+                if my_list[i][0] > my_list[i + 1][0]:
+                    temp = my_list[i]
+                    my_list[i] = my_list[i + 1]
+                    my_list[i + 1] = temp
 
-# sortarea listei order
-def order_sort():
-    for j in range(len(list_of_order)):
-            for i in range(len(list_of_order) - 1):
-                if list_of_order[i][0] > list_of_order[i + 1][0]:
-                    temp = list_of_order[i]
-                    list_of_order[i] = list_of_order[i + 1]
-                    list_of_order[i + 1] = temp
-
-
-menu_sort()
-order_sort()
+sort_list(list_of_menu)
+sort_list(list_of_order)
 
 total = []
 try:
