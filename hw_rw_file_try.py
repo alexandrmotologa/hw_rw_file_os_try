@@ -60,8 +60,6 @@ try:
             weight = list_of_menu[i][2]
             weight = float(weight)
             print(f"Name: {name:30s} Quantity: {quantity:^10.1f} Weight: {quantity * weight:>8.3f} gr. Price: {a:^10.1f} {list_of_menu[i][4]}")
-        else:
-            continue
 except:
     print(f'\n\nThis is Complet Order List.\n\n\
     \t\t\t\t\t\t\t\tTotal for pay:{sum(total):>15.1f}{list_of_menu[i][4]:>7s}')
